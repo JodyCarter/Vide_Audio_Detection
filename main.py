@@ -12,7 +12,6 @@ if __name__ == '__main__':
     conversion results.  It then writes out another json file (outfileText) that only has the "text" values.
     '''
 
-
     # set process variables
     # ########################################################################################################
     cwd = os.getcwd()
@@ -23,9 +22,7 @@ if __name__ == '__main__':
     audio_in_file = os.path.join(pro_dir, 'audio.wav')
     audio_out_file = os.path.join(pro_dir, 'audioMono.wav')
 
-
     vosk_model = os.path.join(cwd, 'vosk-model')
-
 
     # inputs / get files
     # ########################################################################################################
@@ -37,7 +34,6 @@ if __name__ == '__main__':
     # ########################################################################################################
     clip = mp.VideoFileClip(videoIn)
     clip.audio.write_audiofile(audio_in_file)  # generating the audio in file for next step
-
 
     # Convert to Mono channel
     # ########################################################################################################

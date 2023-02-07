@@ -1,0 +1,546 @@
+{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "result" : [{
+      "conf" : 0.814345,
+      "end" : 25.559993,
+      "start" : 25.320000,
+      "word" : "and"
+    }, {
+      "conf" : 1.000000,
+      "end" : 26.190000,
+      "start" : 25.560000,
+      "word" : "continuing"
+    }],
+  "text" : "and continuing"
+}{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 29.010000,
+      "start" : 28.620000,
+      "word" : "the"
+    }, {
+      "conf" : 0.663954,
+      "end" : 29.370000,
+      "start" : 29.040000,
+      "word" : "rap"
+    }, {
+      "conf" : 1.000000,
+      "end" : 29.880000,
+      "start" : 29.370670,
+      "word" : "previously"
+    }, {
+      "conf" : 1.000000,
+      "end" : 30.300000,
+      "start" : 29.880000,
+      "word" : "noted"
+    }],
+  "text" : "the rap previously noted"
+}{
+  "result" : [{
+      "conf" : 0.968537,
+      "end" : 31.860000,
+      "start" : 31.680000,
+      "word" : "our"
+    }, {
+      "conf" : 0.227207,
+      "end" : 32.189890,
+      "start" : 31.860000,
+      "word" : "clients"
+    }, {
+      "conf" : 0.980454,
+      "end" : 32.638949,
+      "start" : 32.469650,
+      "word" : "be"
+    }, {
+      "conf" : 0.999898,
+      "end" : 32.760000,
+      "start" : 32.639817,
+      "word" : "in"
+    }, {
+      "conf" : 0.999898,
+      "end" : 33.030396,
+      "start" : 32.760000,
+      "word" : "general"
+    }, {
+      "conf" : 0.801978,
+      "end" : 33.188445,
+      "start" : 33.045308,
+      "word" : "the"
+    }, {
+      "conf" : 0.904332,
+      "end" : 33.540077,
+      "start" : 33.205818,
+      "word" : "dish"
+    }, {
+      "conf" : 0.900786,
+      "end" : 33.660000,
+      "start" : 33.541099,
+      "word" : "on"
+    }, {
+      "conf" : 0.975884,
+      "end" : 33.750000,
+      "start" : 33.660007,
+      "word" : "the"
+    }, {
+      "conf" : 0.999862,
+      "end" : 34.200000,
+      "start" : 33.750527,
+      "word" : "side"
+    }, {
+      "conf" : 1.000000,
+      "end" : 34.350000,
+      "start" : 34.200000,
+      "word" : "with"
+    }, {
+      "conf" : 1.000000,
+      "end" : 34.860000,
+      "start" : 34.350000,
+      "word" : "continuity"
+    }, {
+      "conf" : 0.985841,
+      "end" : 35.220000,
+      "start" : 34.860000,
+      "word" : "cables"
+    }, {
+      "conf" : 0.955418,
+      "end" : 35.310000,
+      "start" : 35.220000,
+      "word" : "in"
+    }, {
+      "conf" : 0.998945,
+      "end" : 35.670000,
+      "start" : 35.310000,
+      "word" : "place"
+    }, {
+      "conf" : 0.905914,
+      "end" : 36.179150,
+      "start" : 35.730000,
+      "word" : "anodes"
+    }, {
+      "conf" : 0.788840,
+      "end" : 36.390000,
+      "start" : 36.179150,
+      "word" : "appear"
+    }, {
+      "conf" : 0.989675,
+      "end" : 36.452369,
+      "start" : 36.392369,
+      "word" : "to"
+    }, {
+      "conf" : 0.989675,
+      "end" : 36.570000,
+      "start" : 36.452369,
+      "word" : "be"
+    }, {
+      "conf" : 0.946862,
+      "end" : 36.990524,
+      "start" : 36.570000,
+      "word" : "secure"
+    }, {
+      "conf" : 0.277959,
+      "end" : 37.106005,
+      "start" : 36.990524,
+      "word" : "and"
+    }, {
+      "conf" : 0.738429,
+      "end" : 37.470000,
+      "start" : 37.108334,
+      "word" : "active"
+    }],
+  "text" : "our clients be in general the dish on the side with continuity cables in place anodes appear to be secure and active"
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "result" : [{
+      "conf" : 0.911103,
+      "end" : 118.470000,
+      "start" : 118.080000,
+      "word" : "continue"
+    }, {
+      "conf" : 0.961105,
+      "end" : 118.559985,
+      "start" : 118.470000,
+      "word" : "and"
+    }, {
+      "conf" : 0.794174,
+      "end" : 118.731365,
+      "start" : 118.559985,
+      "word" : "make"
+    }, {
+      "conf" : 0.999780,
+      "end" : 118.860000,
+      "start" : 118.753030,
+      "word" : "our"
+    }, {
+      "conf" : 0.999966,
+      "end" : 119.070000,
+      "start" : 118.860000,
+      "word" : "way"
+    }, {
+      "conf" : 1.000000,
+      "end" : 119.460000,
+      "start" : 119.070000,
+      "word" : "down"
+    }, {
+      "conf" : 0.981217,
+      "end" : 120.030000,
+      "start" : 119.490000,
+      "word" : "our"
+    }, {
+      "conf" : 0.843004,
+      "end" : 120.660000,
+      "start" : 120.378171,
+      "word" : "neck"
+    }],
+  "text" : "continue and make our way down our neck"
+}{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 121.830000,
+      "start" : 121.590000,
+      "word" : "as"
+    }, {
+      "conf" : 1.000000,
+      "end" : 122.220000,
+      "start" : 121.830000,
+      "word" : "we"
+    }, {
+      "conf" : 0.903781,
+      "end" : 122.730000,
+      "start" : 122.280000,
+      "word" : "continue"
+    }, {
+      "conf" : 1.000000,
+      "end" : 123.120000,
+      "start" : 122.735771,
+      "word" : "down"
+    }, {
+      "conf" : 1.000000,
+      "end" : 123.390000,
+      "start" : 123.120000,
+      "word" : "the"
+    }, {
+      "conf" : 1.000000,
+      "end" : 123.930000,
+      "start" : 123.420000,
+      "word" : "jumper"
+    }, {
+      "conf" : 0.976176,
+      "end" : 124.290000,
+      "start" : 123.960000,
+      "word" : "into"
+    }, {
+      "conf" : 1.000000,
+      "end" : 124.410000,
+      "start" : 124.290000,
+      "word" : "the"
+    }, {
+      "conf" : 0.411240,
+      "end" : 124.770000,
+      "start" : 124.410000,
+      "word" : "plett"
+    }],
+  "text" : "as we continue down the jumper into the plett"
+}{
+  "result" : [{
+      "conf" : 1.000000,
+      "end" : 127.200000,
+      "start" : 126.991201,
+      "word" : "no"
+    }, {
+      "conf" : 1.000000,
+      "end" : 127.470059,
+      "start" : 127.200000,
+      "word" : "obvious"
+    }, {
+      "conf" : 0.968948,
+      "end" : 127.735269,
+      "start" : 127.470059,
+      "word" : "signs"
+    }, {
+      "conf" : 0.969087,
+      "end" : 128.100000,
+      "start" : 127.742432,
+      "word" : "damage"
+    }, {
+      "conf" : 0.997957,
+      "end" : 128.160000,
+      "start" : 128.100000,
+      "word" : "in"
+    }, {
+      "conf" : 1.000000,
+      "end" : 128.370000,
+      "start" : 128.160059,
+      "word" : "this"
+    }, {
+      "conf" : 1.000000,
+      "end" : 128.815415,
+      "start" : 128.370000,
+      "word" : "area"
+    }, {
+      "conf" : 1.000000,
+      "end" : 129.270000,
+      "start" : 129.000000,
+      "word" : "once"
+    }, {
+      "conf" : 1.000000,
+      "end" : 129.570000,
+      "start" : 129.270000,
+      "word" : "again"
+    }, {
+      "conf" : 0.997223,
+      "end" : 129.780000,
+      "start" : 129.570000,
+      "word" : "there"
+    }, {
+      "conf" : 1.000000,
+      "end" : 130.080000,
+      "start" : 129.780000,
+      "word" : "is"
+    }, {
+      "conf" : 1.000000,
+      "end" : 130.440000,
+      "start" : 130.080000,
+      "word" : "that"
+    }, {
+      "conf" : 1.000000,
+      "end" : 131.460000,
+      "start" : 131.040000,
+      "word" : "rope"
+    }, {
+      "conf" : 0.987525,
+      "end" : 132.029795,
+      "start" : 131.610000,
+      "word" : "soft"
+    }, {
+      "conf" : 0.889484,
+      "end" : 132.240000,
+      "start" : 132.030000,
+      "word" : "rope"
+    }, {
+      "conf" : 0.961442,
+      "end" : 132.660000,
+      "start" : 132.240073,
+      "word" : "debris"
+    }, {
+      "conf" : 1.000000,
+      "end" : 133.200000,
+      "start" : 132.690000,
+      "word" : "previously"
+    }, {
+      "conf" : 1.000000,
+      "end" : 133.620000,
+      "start" : 133.200000,
+      "word" : "noted"
+    }],
+  "text" : "no obvious signs damage in this area once again there is that rope soft rope debris previously noted"
+}{
+  "result" : [{
+      "conf" : 0.999068,
+      "end" : 136.620000,
+      "start" : 136.230000,
+      "word" : "and"
+    }, {
+      "conf" : 1.000000,
+      "end" : 136.800000,
+      "start" : 136.620000,
+      "word" : "no"
+    }, {
+      "conf" : 0.999183,
+      "end" : 137.039985,
+      "start" : 136.800000,
+      "word" : "obvious"
+    }, {
+      "conf" : 1.000000,
+      "end" : 137.430000,
+      "start" : 137.039985,
+      "word" : "signs"
+    }, {
+      "conf" : 0.997415,
+      "end" : 137.700000,
+      "start" : 137.460000,
+      "word" : "of"
+    }, {
+      "conf" : 1.000000,
+      "end" : 138.030000,
+      "start" : 137.700000,
+      "word" : "physical"
+    }, {
+      "conf" : 1.000000,
+      "end" : 138.630000,
+      "start" : 138.030000,
+      "word" : "damage"
+    }, {
+      "conf" : 0.977734,
+      "end" : 139.590000,
+      "start" : 138.870000,
+      "word" : "deformations"
+    }, {
+      "conf" : 0.966961,
+      "end" : 139.679912,
+      "start" : 139.590000,
+      "word" : "are"
+    }, {
+      "conf" : 0.999058,
+      "end" : 140.100000,
+      "start" : 139.679912,
+      "word" : "actively"
+    }, {
+      "conf" : 0.840871,
+      "end" : 140.250000,
+      "start" : 140.100000,
+      "word" : "so"
+    }, {
+      "conf" : 1.000000,
+      "end" : 140.430000,
+      "start" : 140.252944,
+      "word" : "this"
+    }, {
+      "conf" : 1.000000,
+      "end" : 140.730000,
+      "start" : 140.430000,
+      "word" : "time"
+    }],
+  "text" : "and no obvious signs of physical damage deformations are actively so this time"
+}{
+  "text" : ""
+}{
+  "result" : [{
+      "conf" : 0.416543,
+      "end" : 148.590659,
+      "start" : 148.470850,
+      "word" : "the"
+    }, {
+      "conf" : 0.533812,
+      "end" : 149.009927,
+      "start" : 148.714277,
+      "word" : "now"
+    }, {
+      "conf" : 0.653582,
+      "end" : 149.730000,
+      "start" : 149.019419,
+      "word" : "conclude"
+    }, {
+      "conf" : 0.993587,
+      "end" : 150.660000,
+      "start" : 150.120000,
+      "word" : "our"
+    }, {
+      "conf" : 0.951982,
+      "end" : 151.590000,
+      "start" : 151.050000,
+      "word" : "jumper"
+    }, {
+      "conf" : 1.000000,
+      "end" : 152.310000,
+      "start" : 151.590000,
+      "word" : "from"
+    }, {
+      "conf" : 0.620360,
+      "end" : 152.850000,
+      "start" : 152.520029,
+      "word" : "but"
+    }, {
+      "conf" : 0.318034,
+      "end" : 153.449531,
+      "start" : 153.030000,
+      "word" : "peace"
+    }, {
+      "conf" : 0.861912,
+      "end" : 153.551265,
+      "start" : 153.452241,
+      "word" : "or"
+    }, {
+      "conf" : 0.668680,
+      "end" : 153.629971,
+      "start" : 153.551265,
+      "word" : "a"
+    }, {
+      "conf" : 0.942818,
+      "end" : 154.014507,
+      "start" : 153.629971,
+      "word" : "one"
+    }, {
+      "conf" : 0.510270,
+      "end" : 154.620000,
+      "start" : 154.140000,
+      "word" : "to"
+    }, {
+      "conf" : 0.991238,
+      "end" : 155.460000,
+      "start" : 154.680000,
+      "word" : "manifold"
+    }],
+  "text" : "the now conclude our jumper from but peace or a one to manifold"
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}
